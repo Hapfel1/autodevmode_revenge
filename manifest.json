@@ -1,0 +1,14 @@
+{
+  "name": "Auto Enable Developer Mode",
+  "description": "Automatically enables developer mode on startup and keeps it enabled",
+  "authors": [
+    {
+      "name": "Hapfel"
+    }
+  ],
+  "main": "src/index.js",
+  "vendetta": {
+    "version": "1.0.0"
+  }
+
+}
